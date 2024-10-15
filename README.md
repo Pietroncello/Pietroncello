@@ -2,7 +2,9 @@
 
 Hey there! I'm Marco Pietro Cello a 23 year old guy based in Milan, Italy . 
 
-+  💻 I'm currenty studying at ITS Angelo Rizzoli as a Software Architect Student. 
++  💻 I'm a Computer Science student at University of Milan 
+  
++  💻 I studied at ITS Angelo Rizzoli as a Software Architect Student.
   
 +  👀 I have a strong interest in UX/UI design, Front-end and Mobile development! 
   
@@ -10,4 +12,4 @@ Hey there! I'm Marco Pietro Cello a 23 year old guy based in Milan, Italy .
 
 +  📫 You can always reach me on my [Linkedin](https://www.linkedin.com/in/marco-pietro-cello-b85607163/), [Instagram](https://www.instagram.com/pietroncello/).
   
-+ 📩  My email is marcocello26@gmail.com
++ 📩  My email is hello@pietroncello.com
