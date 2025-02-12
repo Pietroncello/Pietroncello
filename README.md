@@ -2,7 +2,7 @@
 
 Hey there! I'm Marco Pietro Cello a 23 year old guy based in Milan, Italy . 
 
-+  💻 I'm a Computer Science student at University of Milan 
++  💻 I'm a Computer Science student at University of Milan. 
   
 +  💻 I studied at ITS Angelo Rizzoli as a Software Architect Student.
   
