@@ -10,6 +10,6 @@ Hey there! I'm Marco Pietro Cello a 24 year old guy based in Milan, Italy .
   
 + 👨🏽‍🍳 If I'm not in front of a screen you'll probably see me in the kitchen.
 
-+  📫 You can always reach me on my [Linkedin](https://www.linkedin.com/in/marco-pietro-cello-b85607163/), [Instagram](https://www.instagram.com/pietroncello/).
++  📫 You can always reach me on my [Linkedin](https://www.linkedin.com/in/marco-pietro-cello-b85607163/), [Instagram](https://www.instagram.com/pietroncello/) and my [Portfolio](https://pietroncello.com/).
   
 + 📩  My email is hello@pietroncello.com
